@@ -7,3 +7,7 @@ Java-Input-Output.iml
 /files/ints.bin
 /files/ints.bin.gz
 /files/archive.zip
+/files/person.bin
+/files/person-write-object.bin
+/files/person-externalizable.bin
+/files/person-proxy.bin
